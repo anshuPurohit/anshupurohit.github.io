@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to center elments with CSS ?"
+title:  "How to center elments with CSS?"
 date:   2014-12-20 17:35:10
 categories: jekyll update
 ---

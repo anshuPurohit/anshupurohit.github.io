@@ -2,8 +2,8 @@
 title: Anshu Purohit's Blog
 email: anshu.purohit123@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
- Hi! I'm Anshu Purohit, <br> a <strong>Front-End Developer</strong> at @MySlideRule.<br>
-  I work on HTML,CSS3,JavaScript Web Applications.
+ Hi! I'm Anshu Purohit. <br> A <strong>Front-End Developer</strong> @MySlideRule.<br>
+  I work on HTML5, CSS3 & JavaScript based Web Applications.
  
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://anshupurohit.github.io" # the base hostname & protocol for your site
