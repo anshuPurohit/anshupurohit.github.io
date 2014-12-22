@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Javascript window.Math object"
+title:  "JavaScript window.Math object"
 date:   2014-12-22 20:35:10
 categories: jekyll update
 ---
-In Javascript multiple advance mathematical calculations can be performed by using an <br> object called `Math`.
+In JavaScript multiple advance mathematical calculations can be performed by using an <br> object called `Math`.
 
 <h3>Absolute Value<h3>
 {% highlight js %}
@@ -28,10 +28,10 @@ Math.sqrt("25"); //output: 5
 Math.round("54.33"); //output: 54
 Math.round("54.73"); //output: 55
 
-//Math.floor(value): rounds down to the value to the nearest integer
+//Math.floor(value): rounds down the value to the nearest integer
 Math.floor("23.55"); //output: 24
 
-//Math.ceil(value): rounds up to the value to the nearest integer
+//Math.ceil(value): rounds up the value to the nearest integer
 Math.ceil("23.55"); //output: 24
 
 {% endhighlight %}
