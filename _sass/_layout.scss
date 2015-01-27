@@ -4,11 +4,15 @@
 .site-header {
     border-top: 10px solid $dark-primary-color;
     border-bottom: 1px solid $grey-color-light;
-    background-color: $primary-color;
+    background-color: $background-color;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
+    .wrapper{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
 }
 
 .site-title {
@@ -20,10 +24,20 @@
 
     &,
     &:visited {
-        color: #fff;
+        color: $text-color;
     }
     &:hover{
-        color: #fff;
+     //   color: #fff;
+    }
+    .author-img{
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -ms-border-radius: 50%;
+        -o-border-radius: 50%;
+        border-radius: 50%;
+        width: 90px;
+        height: 90px;
+        margin-right: 5px;
     }
 }
 
