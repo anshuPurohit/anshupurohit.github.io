@@ -50,7 +50,7 @@ Imports can also be expensive to site performance because each import rule is a 
 {% endhighlight %}
 
 
-<h4>Examples of Media features and logical operators to adapt a layout to different viewport sizes:</h4>
+<h4>Examples of Media features and logical operators to adapt a layout to different viewport:</h4>
 {% highlight css %}
 
 /* targeting the device orientation */

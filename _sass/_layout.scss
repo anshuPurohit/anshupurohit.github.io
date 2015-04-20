@@ -27,7 +27,12 @@
         color: $text-color;
     }
     &:hover{
-     //   color: #fff;
+        text-decoration: none;
+        img{
+            -webkit-transform: scale(1.2);
+                    transform: scale(1.2);
+        }
+        
     }
     .author-img{
         -webkit-border-radius: 50%;
@@ -35,9 +40,13 @@
         -ms-border-radius: 50%;
         -o-border-radius: 50%;
         border-radius: 50%;
-        width: 90px;
-        height: 90px;
+        width: 50px;
+        height: 50px;
         margin-right: 5px;
+        -webkit-transition-duration: 1.5s;
+                transition-duration: 1.5s;
+        -webkit-transition-timing-function: ease-in-out;
+                transition-timing-function: ease-in-out;
     }
 }
 
